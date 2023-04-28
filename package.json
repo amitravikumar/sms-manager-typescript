@@ -1,0 +1,27 @@
+{
+  "name": "sms-manager",
+  "version": "1.0.0",
+  "description": "SMS Manager Service using Typescript, built to work with popular Gupshup SMS Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitravikumar/sms-manager-typescript.git"
+  },
+  "keywords": [
+    "sms-manager",
+    "typescript",
+    "nodejs",
+    "gupshup",
+    "gupshup-integration",
+    "gupshup-sms-service"
+  ],
+  "author": "Amit Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitravikumar/sms-manager-typescript/issues"
+  },
+  "homepage": "https://github.com/amitravikumar/sms-manager-typescript#readme"
+}
