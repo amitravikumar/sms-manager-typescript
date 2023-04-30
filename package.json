@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/amitravikumar/sms-manager-typescript/issues"
   },
-  "homepage": "https://github.com/amitravikumar/sms-manager-typescript#readme"
+  "homepage": "https://github.com/amitravikumar/sms-manager-typescript#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3"
+  }
 }
